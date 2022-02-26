@@ -1,0 +1,2 @@
+# Coprime-Range
+COPRIMEX codechef
